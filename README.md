@@ -17,7 +17,7 @@ Exploring the world wide data
 Forecasting the worldwide COVID-19 cases using Prophet
 
 
-Here’s a list of the top Python libraries for statistical analysis:
+>>Here’s a list of the top Python libraries for statistical analysis:
 
 
 NumPy
